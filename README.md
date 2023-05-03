@@ -38,6 +38,7 @@ For _mahzūz_ (results included on Figure 2 below), the results were surprisingl
 <p align="center">
   <b>Figure 2.</b> Complexity distribution for the mahzūz form.
 </p>
+
 For _inṣirāf_ the results for the complexity distribution (included on Figure 3 below) are much different. Almost 70% of the notes in this tempo range sections were on beat (level 0 complexity); only 25% of them fell on complexity level 1 and close to 6% of the notes were classified as level 2.
 
 <p align="center">
