@@ -30,7 +30,7 @@ For _muassa‘_ (results included on Figure 1 below), more than 50% of the notes
 </p>
 
 
-For mahzūz (results included on Figure 2 below), the results were surprisingly similar to muassa‘. 53% of the notes were classified as a level 0 complexity, 38% of the notes were classified as level 1 and 8.8% as level 2. Again, the level 3 complexity notes percentage is negligible.
+For _mahzūz_ (results included on Figure 2 below), the results were surprisingly similar to muassa‘. 53% of the notes were classified as a level 0 complexity, 38% of the notes were classified as level 1 and 8.8% as level 2. Again, the level 3 complexity notes percentage is negligible.
 
 <p align="center">
   <img width="460" height="300" src="Figures/RhythmicComplexityMahzuz.png">
@@ -38,7 +38,7 @@ For mahzūz (results included on Figure 2 below), the results were surprisingly 
 <p align="center">
   <b>Figure 2.</b> Complexity distribution for the mahzūz form.
 </p>
-For inṣirāf the results for the complexity distribution (included on Figure 3 below) are much different. Almost 70% of the notes in this tempo range sections were on beat (level 0 complexity); only 25% of them fell on complexity level 1 and close to 6% of the notes were classified as level 2.
+For _inṣirāf_ the results for the complexity distribution (included on Figure 3 below) are much different. Almost 70% of the notes in this tempo range sections were on beat (level 0 complexity); only 25% of them fell on complexity level 1 and close to 6% of the notes were classified as level 2.
 
 <p align="center">
   <img width="460" height="300" src="Figures/RhythmicComplexityInsiraf.png">
